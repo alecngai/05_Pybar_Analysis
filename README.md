@@ -19,3 +19,5 @@ Here is a time analysis of the fares per cities, we can see it is consistant bet
 ## Summary
 
 From our data we can see that there are much more drivers in Urban envorniment than rural, it would be advised to reduce tthe amount of drivers in Urban and increase the rural, this would allow a more earnable wage for the drivers, as the current fare per driver in Urban is $16.57,  which is a decent wage, however, it does not take into account, gas, car maintenece, etc. 
+
+We can see that Urban has 2406 drivers, but a total of 1625 rides, this means many drivers are not working and being inefficent, Both Rural and  Suburban have less drivers than rides, so we suggest to fill both, to meet the demand more efficently. 
