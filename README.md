@@ -8,13 +8,14 @@ The obejective of this analysis is to analyze ride-sharing data by city type, us
 
 By reviewing the summary we can see that there are several key findings including:
 
-![Summary]()
+![Summary](https://github.com/alecngai/05_Pybar_Analysis/blob/main/Analysis/Pyber_Summary.png)
 
-- Urban cities have the highest ridership demand while rural cities have the least.
-- Urban cities have 4x+ more drivers than suburban cities.
-- Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
-- Rural cities have the highest average fare per ride and driver.
-- The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
+Here we can see Urban cities excel in all categories, except for average fare per ride and average fare per driver. 
+
+![Total Fare](https://github.com/alecngai/05_Pybar_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
+
+Here is a time analysis of the fares per cities, we can see it is consistant between the months that Urban city has the biggest market share. 
+
 ## Summary
 
-Based on the analysis my business recommendations to Pyber are: Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
+From our data we can see that there are much more drivers in Urban envorniment than rural, it would be advised to reduce tthe amount of drivers in Urban and increase the rural, this would allow a more earnable wage for the drivers, as the current fare per driver in Urban is $16.57,  which is a decent wage, however, it does not take into account, gas, car maintenece, etc. 
